@@ -1,4 +1,4 @@
-# 🗂️ Calorie Counter 🔥📠 
+# 🗂️ Calorie Counter 🔥📱 
 ## ➡️ Key Concepts :
 ### ✅ FORM VALIDATION :
 ### ✅ Validate User Input

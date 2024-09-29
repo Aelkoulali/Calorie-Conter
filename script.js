@@ -1,4 +1,4 @@
-// Get Element by Id
+// Declare variables
 const calorieCounter = document.getElementById('calorie-counter');
 const budgetNumber = document.getElementById('budget');
 const entryDropdown = document.getElementById('entry-dropdown');
@@ -7,7 +7,7 @@ const clearButton = document.getElementById('clear');
 const output = document.getElementById('output');
 // Declare Variable IsError and Set it to False
 let isError = false; 
-// functions
+// Add functions
 function cleanInputString(){
     const regex = /[+-\s]/g;
     return str.replace(regex, '');
